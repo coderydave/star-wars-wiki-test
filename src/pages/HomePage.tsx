@@ -44,7 +44,7 @@ const HomePage = () => {
     }
   };
   return (
-    <div>
+    <>
       {(loadingSpacies || loadingSearch) === true ? (
         <Loader />
       ) : (
@@ -63,7 +63,7 @@ const HomePage = () => {
           )}
         </>
       )}
-    </div>
+    </>
   );
 };
 
