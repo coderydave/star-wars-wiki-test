@@ -1,0 +1,14 @@
+{
+  "homepage": {
+    "title": "Star Wars Wiki",
+    "sub_title": "May the force be with you..."
+  },
+  "navbar": {
+    "back": "Back to Home"
+  },
+  "searchbar": {
+    "button_text": "Search",
+    "placeholder": "...",
+    "nofound": "There is no character with that name"
+  }
+}
